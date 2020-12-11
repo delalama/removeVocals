@@ -8,13 +8,16 @@ The amazing brains behind the algothythm are....
 
 You must first install spleeter and all its dependencies then you can run this code in your computer
 
-[__DEMO_ORIGINAL_AUDIO__](https://drive.google.com/file/d/1iL1GwkGgFsgMScx68UJj9QXtmYmUh1W4/view?usp=sharing)
+.[__DEMO_ORIGINAL_AUDIO__](https://drive.google.com/file/d/1iL1GwkGgFsgMScx68UJj9QXtmYmUh1W4/view?usp=sharing)
 
-Sending the file to the spring controller
+### Sending the file to the spring controller
+
 ![](https://github.com/delalama/removeVocals/blob/master/docu/post%20mp3.png)
 
-After processing with Deezer library....
+### After processing with Deezer library....
+
 [__PROCESSED_AUDIO__](https://drive.google.com/file/d/1DoPS-PukTXeZhuQKJhAoVzFlC76utEhm/view?usp=sharing)
+
 This library uses tensorflow and is able to split 5 instruments from a track, brilliant. 
 
 ![](https://github.com/delalama/removeVocals/blob/master/docu/save%20to%20file.png)
