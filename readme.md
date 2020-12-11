@@ -6,7 +6,7 @@ This a spring exercise to make a useful Api to remove vocals from audio tracks.
 The amazing brains behind the algothythm are....
 [Python library](https://github.com/deezer/spleeter)
 
-You must first install spleeter and all its dependencies.
+You must first install spleeter and all its dependencies then you can run this code in your computer
 
 [__DEMO_ORIGINAL_AUDIO__](https://drive.google.com/file/d/1iL1GwkGgFsgMScx68UJj9QXtmYmUh1W4/view?usp=sharing)
 
