@@ -2,7 +2,7 @@
 Base project to begin new API
 
 
-!audio[ DEMO ](https://github.com/delalama/removeVocals/blob/master/docu/not%20processed.mp3){ size=10 duration=10 cycle=forever }
+!audio[ DEMO ](https://github.com/delalama/removeVocals/blob/master/docu/demoDuaLipa.mp3){ size=10 duration=10 cycle=forever }
 
 ![](https://github.com/delalama/removeVocals/blob/master/docu/post%20mp3.png)
 
