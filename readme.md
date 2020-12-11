@@ -8,14 +8,13 @@ This a java kata to make a useful Api to remove vocals from audio tracks.
 
 You must first install spleeter and all its dependencies.
 
-[__DEMO_AUDIO__](https://github.com/delalama/removeVocals/blob/master/docu/demoDuaLipa.mp3)
-
-[__DEMO_drive__](https://drive.google.com/file/d/1iL1GwkGgFsgMScx68UJj9QXtmYmUh1W4/view?usp=sharing)
+[__DEMO_AUDIO__](https://drive.google.com/file/d/1iL1GwkGgFsgMScx68UJj9QXtmYmUh1W4/view?usp=sharing)
 You can download : view raw -> save as
 
 ![](https://github.com/delalama/removeVocals/blob/master/docu/post%20mp3.png)
 
-[__PROCESSED_AUDIO__](https://github.com/delalama/removeVocals/blob/master/docu/processed.mp3)
+
+[__PROCESSED_AUDIO__](https://github.com/delalama/removeVocals/blob/master/docu/processed.mp3https://drive.google.com/file/d/1DoPS-PukTXeZhuQKJhAoVzFlC76utEhm/view?usp=sharing)
 
 You can download : view raw -> save as
 
